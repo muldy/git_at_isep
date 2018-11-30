@@ -1,0 +1,73 @@
+<> Tópicos
+
+    > Git (teorico e pratico)
+
+        > git clone
+
+        > git fetch
+
+        > git merge
+
+        > git pull
+
+        > push
+
+        > .gitignore
+
+        
+
+        (other? )
+
+        > tags
+
+        > branches
+
+    > Jenkins (teorico apenas - maybe com demo?)
+
+        > FreeStyle Job example
+
+        > Pipeline example
+
+ <> Workflow
+
+    > Git
+
+        1. Fork repo
+
+        2. Add  a .gitignore file
+
+        3. Change to README.md
+
+        4. Commit changes & push
+
+        5. Edit updated README.md online
+
+        6. Push changes (merge conflict? Resolve it.)
+
+        7. Commit & Push changes
+
+        (other - tags)
+
+        8. push a tag
+
+        9. Get the code from the tag created
+
+        
+
+        (other - branches)
+
+        10. Create a branch
+
+        11. Checkout to created branch
+
+        12. Make changes
+
+        13. Commit and push to branch
+
+        14. Switch between master and the new branch and check the differences
+
+        15. Merge the branches
+
+        16. Commit changes to master
+
+        17. Delete created branch
