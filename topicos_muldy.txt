@@ -1,0 +1,28 @@
+Talk - Tópicos
+
+- Git history
+- Main features/advantages
+- clients available
+- web uis
+   * github CI links
+- typical workflow (start with clone)
+- push/pull requests
+- Branches, branches vs merges
+- gitignore
+- advantages again
+- disadvantages (none :P )
+- best practices
+- Cont. integration
+- current process vs CI
+- tools for CI
+- Jenkins with git
+- learning git resources
+
+“Hands-on” (sugestões)
+- criar repositório (local)
+- adicionar coisas
+- merge?
+- rebase?
+- publicar github (push to)
+- adicionar a jenkins? A outro CI? →circle ci ← faz builds de coisas no github de borla
+https://circleci.com/integrations/github/
